@@ -1,0 +1,7 @@
+name: crystal-sample-http-server
+version: 0.1.0
+
+authors:
+  - upamune <jajkeqos@gmail.com>
+
+license: MIT
